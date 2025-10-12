@@ -1,8 +1,28 @@
 {
   "urls": [
-    { "name": "Wikipedia", "url": "https://www.wikipedia.org" },
-    { "name": "Heise", "url": "https://www.heise.de" },
-    { "name": "OpenAI", "url": "https://www.openai.com" },
-    { "name": "Android", "url": "https://developer.android.com" }
+    {
+      "name": "WISAG GopsInfo",
+      "url": "https://gopsinfo.wisag.de"
+    },
+    {
+      "name": "TAC Lufthansa Group",
+      "url": "https://tac.lufthansa-group.com"
+    },
+    {
+      "name": "WISAG Moreapp MUC WAGS Damaged GSE",
+      "url": "https://app.moreapp.com/form/67d9574e67d73f5d0aaf01d6?id=7e960ca5-2935-4f2d-8df0-004510d20708"
+    },
+    {
+      "name": "WISAG Moreapp ALL WASH  Ramp Safety Check 2025",
+      "url": "https://app.moreapp.com/form/676036bcdfa20d5b8134ec58"
+    },
+    {
+      "name": "CLC Viennaairport",
+      "url": "https://clc.viennaairport.com"
+    },
+    {
+      "name": "DPX Iberia",
+      "url": "https://dpx.iberia.es"
+    }
   ]
 }
