@@ -1,7 +1,8 @@
 {
   "blocked": [
     "example.com",
-    "ads.badsite.net"
+    "ads.badsite.net",
 	"google.de"
   ]
+
 }
