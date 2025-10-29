@@ -1,8 +1,12 @@
 {
   "blocked": [
-    "example.com",
+    "bing.com",
     "ads.badsite.net",
-	"google.de"
+	"google.de",
+	"facebook.com",
+	"x.com",
+	"instagram.com",
+	"tiktok.com"
   ]
-
+  
 }
